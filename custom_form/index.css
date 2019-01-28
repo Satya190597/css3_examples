@@ -1,0 +1,23 @@
+.container
+{
+    background-color: gainsboro;
+    margin: 0 auto;
+    height: 400px;
+    width: 800px;
+}
+.first
+{
+    display: inline;
+    background-color: grey;
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+}
+.second
+{
+    display: inline;
+    background-color: gray;
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+}
